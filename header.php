@@ -11,12 +11,11 @@
 
 <!-- Navigation goes here -->
 <div id="navigation">
-	<a href="#">Start</a>
+	<a href="index.php">Start</a>
 	<a href="#">Länk 1</a>
 	<a href="#">Länk 2</a>
 	<a href="#">Länk 3</a>
 	<a href="#">Länk 4</a>
-	<a href="#">Länk 5</a>	
 
 
 
