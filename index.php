@@ -5,21 +5,14 @@
 
 
 <!-- Content goes here -->
-<div id="wrapper">
+<div class="wrapper">
 
-	<h1>Movielovers <span class="span-yellow">Unite!</h1></span>
-	<p>Lorem ipsum dolor sit amet, oblique accumsan voluptatibus vix ut, no mea option assentior. Ei laudem vocent iudicabit sed, diam aliquid cotidieque ius et. Pri commune appetere erroribus id. Id cum dolorum phaedrum vituperata, sea id molestiae adolescens scribentur, eos et dolore officiis tacimates.</p>
-	<p>Ea alii fierent petentium mei. Aeterno suscipit te his. Ubique alterum eos te. An nusquam pericula disputando quo, eum congue verterem ex.
-	Vel an summo gubergren similique, eos vivendo tractatos in. Cu eos graeco eirmod argumentum. Iusto dictas vivendo cu quo. Simul argumentum in sit. Atqui epicuri definitionem vel eu, his et suas possit instructior.</p>
-	<p>Eu harum quidam eos, ad nonumy constituam usu, ea unum periculis nam. Mea tacimates prodesset deterruisset no, sea iriure scribentur ut. Ullum recteque pri te. Id mei porro omnium salutandi, congue integre laoreet vel in. Per exerci maiestatis id, facer appellantur ei nam, te rebum persius vocibus per. Has saepe nullam tamquam ei, sed alienum abhorreant sadipscing ad.</p>
-	<p>In ius debet movet intellegam, mel ne diam soluta sensibus. Justo forensibus eloquentiam cu cum, nibh blandit invenire at vim, ceteros volumus per ex. Has te augue imperdiet, debet quaeque persecuti an mel. Eos saepe putent scribentur et.</p>
+	<h1>MovieLovers <span class="span-yellow">Unite</h1></span>
+	<p>Welcome to MovieLovers! Are you just like us and love to bingewatch movies? Do you only want to watch movies in high quality? Do you want to stream the latest movies before they are available in a physical store? If you said yes to all of the above we think you will love it here.</p>
 
-	<p>Lorem ipsum dolor sit amet, oblique accumsan voluptatibus vix ut, no mea option assentior. Ei laudem vocent iudicabit sed, diam aliquid cotidieque ius et. Pri commune appetere erroribus id. Id cum dolorum phaedrum vituperata, sea id molestiae adolescens scribentur, eos et dolore officiis tacimates.</p>
-	<p>Ea alii fierent petentium mei. Aeterno suscipit te his. Ubique alterum eos te. An nusquam pericula disputando quo, eum congue verterem ex.
-	Vel an summo gubergren similique, eos vivendo tractatos in. Cu eos graeco eirmod argumentum. Iusto dictas vivendo cu quo. Simul argumentum in sit. Atqui epicuri definitionem vel eu, his et suas possit instructior.</p>
-	<p>Eu harum quidam eos, ad nonumy constituam usu, ea unum periculis nam. Mea tacimates prodesset deterruisset no, sea iriure scribentur ut. Ullum recteque pri te. Id mei porro omnium salutandi, congue integre laoreet vel in. Per exerci maiestatis id, facer appellantur ei nam, te rebum persius vocibus per. Has saepe nullam tamquam ei, sed alienum abhorreant sadipscing ad.</p>
-	<p>In ius debet movet intellegam, mel ne diam soluta sensibus. Justo forensibus eloquentiam cu cum, nibh blandit invenire at vim, ceteros volumus per ex. Has te augue imperdiet, debet quaeque persecuti an mel. Eos saepe putent scribentur et.</p>
+<p>MovieLovers is a subscriptionbased movie streaming service of highest quality. I know what you are thinking. Of course we have a wide selection of tv-series as well. Our service is the cheapest and most broad streaming service you can find on the market.</p>
 
+<p>Go ahead and checkout our <a href="movie-collection.php" title="Get info about our broad collection">collection</a> of content. If you are convinced and want to try out our service, go ahead and <a href="sign-up.php" title="Sign Up">sign up</a>. Although we think you'll love it here at MovieLovers we're ready to give new customers their first month of subscription for free. You can also cancel your subscription anytime that you like. If you want to get to know the brains and muscle behind MovieLovers we're very transparent and you can <a href="about.php" title="About us">read</a> about us if you like.</p>
 
 
 	

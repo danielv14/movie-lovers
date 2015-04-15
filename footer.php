@@ -1,5 +1,8 @@
 
 <!-- Include scripts here -->
-<script type="text/javascript" src="js/main.js"></script>
+<script src="js/wow.min.js"></script>
+<script>
+ new WOW().init();
+</script>
 </body>
 </html>
