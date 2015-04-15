@@ -1,25 +1,20 @@
 <!-- Include the header -->
 <?php include 'header.php';?>
 
+<img class ="page-img"src="img/collection.jpg" alt="background">
 
 
 <!-- Content goes here -->
-<div class="wrapper extra-margin">
+<div class="wrapper">
 
-	<h1>Our <span class="span-yellow">Collection</span> of Awesome Movies</h1>
-	<p>Lorem ipsum dolor sit amet, oblique accumsan voluptatibus vix ut, no mea option assentior. Ei laudem vocent iudicabit sed, diam aliquid cotidieque ius et. Pri commune appetere erroribus id. Id cum dolorum phaedrum vituperata, sea id molestiae adolescens scribentur, eos et dolore officiis tacimates.</p>
-	<p>Ea alii fierent petentium mei. Aeterno suscipit te his. Ubique alterum eos te. An nusquam pericula disputando quo, eum congue verterem ex.
-	Vel an summo gubergren similique, eos vivendo tractatos in. Cu eos graeco eirmod argumentum. Iusto dictas vivendo cu quo. Simul argumentum in sit. Atqui epicuri definitionem vel eu, his et suas possit instructior.</p>
-	<p>Eu harum quidam eos, ad nonumy constituam usu, ea unum periculis nam. Mea tacimates prodesset deterruisset no, sea iriure scribentur ut. Ullum recteque pri te. Id mei porro omnium salutandi, congue integre laoreet vel in. Per exerci maiestatis id, facer appellantur ei nam, te rebum persius vocibus per. Has saepe nullam tamquam ei, sed alienum abhorreant sadipscing ad.</p>
-	<p>In ius debet movet intellegam, mel ne diam soluta sensibus. Justo forensibus eloquentiam cu cum, nibh blandit invenire at vim, ceteros volumus per ex. Has te augue imperdiet, debet quaeque persecuti an mel. Eos saepe putent scribentur et.</p>
+	<h1>What do you want to <span class="span-yellow">watch</span> today?</h1>
+	<p>We MovieLovers are very proud of our broad selection of content to choose from. Thousands of high quality movies and hundreds of tv series are at our disposal if you are a member of our awesome family of movie enthusiasts.</p>
 
-	<p>Lorem ipsum dolor sit amet, oblique accumsan voluptatibus vix ut, no mea option assentior. Ei laudem vocent iudicabit sed, diam aliquid cotidieque ius et. Pri commune appetere erroribus id. Id cum dolorum phaedrum vituperata, sea id molestiae adolescens scribentur, eos et dolore officiis tacimates.</p>
-	<p>Ea alii fierent petentium mei. Aeterno suscipit te his. Ubique alterum eos te. An nusquam pericula disputando quo, eum congue verterem ex.
-	Vel an summo gubergren similique, eos vivendo tractatos in. Cu eos graeco eirmod argumentum. Iusto dictas vivendo cu quo. Simul argumentum in sit. Atqui epicuri definitionem vel eu, his et suas possit instructior.</p>
-	<p>Eu harum quidam eos, ad nonumy constituam usu, ea unum periculis nam. Mea tacimates prodesset deterruisset no, sea iriure scribentur ut. Ullum recteque pri te. Id mei porro omnium salutandi, congue integre laoreet vel in. Per exerci maiestatis id, facer appellantur ei nam, te rebum persius vocibus per. Has saepe nullam tamquam ei, sed alienum abhorreant sadipscing ad.</p>
-	<p>In ius debet movet intellegam, mel ne diam soluta sensibus. Justo forensibus eloquentiam cu cum, nibh blandit invenire at vim, ceteros volumus per ex. Has te augue imperdiet, debet quaeque persecuti an mel. Eos saepe putent scribentur et.</p>
-
-
+<p>Do you like action movies with Bruce Willis in the lead? Do you like romcoms with Hugh Grant maybe? Or do you like the "smaller" movies that the majority of people have never heard about? No matter who you are MovieLovers have something for you.</p>
+<br>
+<p>We work very hard to devliver fresh content to our subscribers and not long after the movies have stopped screening in the cinemas you can find the latest movies on our site, ready to be watched by you and your friends. But don't worry, we know that not everyone wants to watch the latest and we have not forgotten about the the older movies and tv series. We like older movies as well and offer some of the classics like Casablanca and Psycho. Our tv series are 100% meaning that if you start to bingewatch a series at MovieLovers you can watch the whole series including the final episode. That means that you can watch all 172 episodes of Seinfeld if you would like that.</p>
+<br>
+<p>So why don't you go ahead and <a href="sign-up.php" title="Sign up">join</a> our family of movie lovers</p>
 
 	
 </div> <!-- End of wrapper -->

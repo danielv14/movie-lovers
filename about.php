@@ -10,7 +10,7 @@
 <p>The company is of swedish origin and as of now we only offer our service to scandinavia but our team is working hard and soon we're ready to release the service to the entire world. Currently MovieLovers have a staff of 60 employees who are working <em>very</em> hard to deliver what we think is the best Movie streaming service on the market.</p>
 
 <p>MovieLovers philosophy is that everyone deserves quality content at a resonably price. Whether you're into action movies or indie comedies doesn't matter to us as we want quality content no matter what genre. MovieLovers are also an avid supporter of bingewatching and think that it's every humans right to watch an entire season of their favourite tv-series in one, comforable sitting.</p>
-
+<br>
 <p>MovieLovers simpy are created by movie lovers, for movie lovers.</p>
 
 
