@@ -68,18 +68,45 @@ a:hover {
 /*Style for main wrapper */
 div.wrapper {
 	margin-top: 40px;
-	margin-bottom: 77px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 960px;
 	padding: 5px;
 }
 
-div.extra-margin {
-	margin-top: 100px;
+/*Style for full-width wrapper on sign-up.php*/
+div.price-fullwidth {
+	width: 100%;
+	height: 250px;
+	/*background-color: rgba(1, 1, 1, 0.8);
+	color: rgba(1, 1, 1, 0.8);*/
+	background-image: url("../img/dark.png");
+	-webkit-box-shadow: 0px 0px 14px 0px #000000;
+	-moz-box-shadow: 0px 0px 14px 0px #000000;
+	box-shadow: 0px 0px 14px 0px #000000;
+
 }
 
-/* Style for page images */
+/*Style for child-div inside the price-wrapper*/
+div.price-content {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+
+/*Helper class for extra margin*/
+div.extra-margin-top {
+	margin-top: 100px;
+}
+/*Helper class for extra margin*/
+div.extra-margin-bottom {
+	margin-bottom: 75px;
+}
+
+/* Style for  full-width page images */
 img.page-img {
 	width: 100%;
 	height: 500px;
@@ -198,4 +225,7 @@ li p {
 span.list-span {
   position: absolute;
 }
+
+
+
 
