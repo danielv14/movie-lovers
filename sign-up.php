@@ -19,19 +19,19 @@
 
 <div class="price-fullwidth">
 	<div class="price-content">
-		<div class="wow fadeInLeft">
+		<div class="wow flipInX" data-wow-delay="1s">
 			<h1>Only <span class="span-yellow">€8</span></h1>
 		</div>
-		<div class="wow fadeInRight" data-wow-delay="1s">
+		<div class="wow flipInX" data-wow-delay="2s">
 			<h1><span class="span-yellow">Thousands</span> of movies</h1>
 		</div>
-		<div class="wow fadeInLeft" data-wow-delay="2s">
+		<div class="wow flipInX" data-wow-delay="3s">
 			<h1>Binge-watch <span class="span-yellow">hundred</span> of tv series</h1>
 		</div>
 		<br>
 
 		<!-- Div for wow.js effect -->
-	<div class="wow fadeIn" data-wow-delay="3s">
+	<div class="wow fadeIn" data-wow-delay="4s" data-wow-duration="1s">
   		<a href="#" class="button">Sign up</a>
 	</div>
 	</div>
