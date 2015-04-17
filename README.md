@@ -31,11 +31,14 @@ Och för extra margin i toppen:
 </div>
 ```
 
-##Hjälpande span-klass
+##Hjälpande span-klasser
 'span-yellow' kan användas när någon text ska ändra färg till hemsidans signaturfärg #F8AD09. Detta används flitigt här och där i hemsidan och ska text i en paragraf göras gul, gör såhär:
 ```
 <p>Make text <span class="span-yellow">yellow</span> like this</p>
 ```
-
+'span-emphasize' används när någon text ska göras något större och *italic*. Används på MovieLovers i samband med span-yellow. Använd såhär:
+```
+<p>Make text <span class="span-emphesize">bigger and italic</span> like this</p>
+```
 ##Bilder
 img/ innehåller croppade bilder som används på de olika php-sidorna. En logotyp finns även i denna katalog samt bakgrunden som används på en av div'arna i sign-up.php.
