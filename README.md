@@ -9,8 +9,25 @@ Normalize används för att nollställa all margin och padding. De andra två ex
 js/main.js är en (än så länge) tom fil där eventuell egen javascript/jquery kod kan skrivas för använding på MovieLovers.
 js/typed.js är en externt hämtad fil som inte heller används i nuläget.
 
+##Användande av div-wrapper
+Allt innehåll ska omslutas av en div med klassen 'wrapper'. Då blir innehållet centrerat och style'at på ett visst sätt med exempelvis en bredd på 960px. Gör såhär:
+```
+<div class="wrapper">
+	<h1>All content should be properly wrapped</h1>
+</div>
+```
+
 ##Hjälpklasser till div's
-I css/style.css finns det två stycken hjälp-klasser som antingen ger extra margin ovanför eller nedanför en div. Dessa heter 'extra-margin-bottom' och 'extra-margin-top'. De ger en margin på 75px och 100px respektive.
+I css/style.css finns det två stycken hjälp-klasser som antingen ger extra margin ovanför eller nedanför en div. Dessa heter 'extra-margin-bottom' och 'extra-margin-top'. De ger en margin på 75px och 100px respektive. Klasserna används såhär:
+```
+<div class="wrapper extra-margin-bottom">
+	<h1>This div has extra margin at the bottom</h1>
+</div>
+```
+Och för extra margin i toppen:
+<div class="wrapper extra-margin-top">
+	<h1>This div has extra margin at the top</h1>
+</div>
 
 ##Hjälpande span-klass
 'span-yellow' kan användas när någon text ska ändra färg till hemsidans signaturfärg #F8AD09. Detta används flitigt här och där i hemsidan och ska text i en paragraf göras gul, gör såhär:
