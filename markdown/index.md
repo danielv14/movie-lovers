@@ -1,5 +1,0 @@
-Welcome to MovieLovers! Are you just like us and love to binge-watch movies? Do you only want to watch movies in high quality? Do you want to stream the latest movies before they are available in a physical store? If you said yes to all of the above we think you will love it here.     
-
-MovieLovers is a subscriptionbased movie streaming service of highest quality. I know what you are thinking. Of course we have a wide selection of tv-series as well. Our service is the cheapest and most broad streaming service you can find on the market. 
-
-Go ahead and checkout our [collection](movie-collection.php "Get info about our broad collection") of content. If you are convinced and want to try out our service, go ahead and [sign up](sign-up.php "Sign Up"). Although we think you'll love it here at MovieLovers we're ready to give new customers their first month of subscription for free. You can also cancel your subscription anytime that you like. If you want to get to know the brains and muscle behind MovieLovers we're very transparent and you can [read](about.php "About us") about us if you like.
