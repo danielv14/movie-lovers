@@ -12,5 +12,11 @@ js/typed.js är en externt hämtad fil som inte heller används i nuläget.
 ##Hjälpklasser till div's
 I css/style.css finns det två stycken hjälp-klasser som antingen ger extra margin ovanför eller nedanför en div. Dessa heter 'extra-margin-bottom' och 'extra-margin-top'. De ger en margin på 75px och 100px respektive.
 
+##Hjälpande span-klass
+'span-yellow' kan användas när någon text ska ändra färg till hemsidans signaturfärg #F8AD09. Detta används flitigt här och där i hemsidan och ska text i en paragraf göras gul, gör såhär:
+```
+<p>Make text <span class="span-yellow">yellow</span> like this</p>
+```
+
 ##Bilder
 img/ innehåller croppade bilder som används på de olika php-sidorna. En logotyp finns även i denna katalog samt bakgrunden som används på en av div'arna i sign-up.php.

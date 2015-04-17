@@ -120,9 +120,7 @@ img.page-img {
 span.span-yellow {
 	color: #F8AD09;
 }
-span.underscore {
-	text-decoration: underline;
-}
+
 
 /********************
 *Style for button
@@ -144,9 +142,7 @@ span.underscore {
 	 background-image: -ms-linear-gradient(top, #f8ac09 0% ,#f2c35e 100%); 
 	 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2c35e', endColorstr='#f2c35e',GradientType=0 ); 
 	 background-image: linear-gradient(top, #f8ac09 0% ,#f2c35e 100%);   
-	 -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
-	 -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
-	 box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+	 
   
 }
 .button:hover {
