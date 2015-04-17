@@ -3,7 +3,7 @@ Detta är ett repo för en hemsidan som är del av en kurs, [Webbinformatik 2.0,
 Uppgift 3 handlar om att skapa en enklare statisk hemsida där själva innehållet är oväsentligt, så länge hemsidan uppfyller vissa kriterier. Bland annat är navbar ett krav samt  att det ska finnas några externa länkar på hemsidan.
 
 ##Animate.css, normalize.css, wow.js och jquery
-Normalize används för att nollställa all margin och padding. De andra två externa filer används för att skapa den effekt som finns i sign-up.php och möjliggör den effekt som finns på sidans andra wrapper. Då wow.js använder sig av jquery finns även jquery i js/jquery-2.1.3.min.js 
+Normalize används för att nollställa all margin och padding. De andra två externa filer används för att skapa den effekt som finns i sign-up.php och möjliggör den effekt som finns på sidans andra wrapper. Då wow.js använder sig av jquery finns även jquery i js/jquery-2.1.3.min.js
 
 ##Icke använda .js filer
 js/main.js är en (än så länge) tom fil där eventuell egen javascript/jquery kod kan skrivas för använding på MovieLovers.
