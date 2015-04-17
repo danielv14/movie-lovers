@@ -7,7 +7,7 @@
 <!-- Content goes here -->
 <div class="wrapper extra-margin-bottom">
 
-	<h1>What do <span class="span-yellow">you</span> want to watch today?</h1>
+	<h1>What do <span class="span-yellow span-emphasize">you</span> want to watch today?</h1>
 	<p>We MovieLovers are very proud of our broad selection of content to choose from. Thousands of high quality movies and hundreds of tv series are at your disposal if you are a member of our awesome family of movie enthusiasts.</p>
 
 <p>Do you like action movies with Bruce Willis in the lead? Do you like romcoms with Hugh Grant maybe? Or do you like the "smaller" movies that the majority of people have never heard about? No matter who you are MovieLovers have something for you.</p>

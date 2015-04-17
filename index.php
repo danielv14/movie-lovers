@@ -6,7 +6,7 @@
 
 <!-- Content goes here -->
 <div class="wrapper extra-margin-bottom">
-	<h1>MovieLovers <span class="span-yellow">unite</h1></span>
+	<h1>MovieLovers <span class="span-yellow span-emphasize">unite</h1></span>
 	<p>Welcome to MovieLovers! Are you just like us and love to binge-watch movies and tv series? Do you only want to watch movies in high quality? Do you want to stream the latest movies before they are available in a physical store? If you said yes to all of the above we think you will love it here.</p>
 	<br>
 	<p>MovieLovers is a subscription based movie streaming service of highest quality. I know what you are thinking. Of course we have a wide selection of tv-series as well. Our service is the cheapest and most broad streaming service you can find on the market.</p>

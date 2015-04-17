@@ -10,7 +10,7 @@ html {
 
 body {
 	background-color: #eee;
-		font-family: 'PT Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif;
 	line-height: 1.5em;
 }
 
@@ -119,6 +119,10 @@ img.page-img {
 /*Style for a yellow span*/
 span.span-yellow {
 	color: #F8AD09;
+}
+span.span-emphasize {
+	font-size: 1.35em;
+	font-style: italic;
 }
 
 

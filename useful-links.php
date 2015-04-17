@@ -6,7 +6,7 @@
 <!-- Content goes here -->
 <div class="wrapper extra-margin-top extra-margin-bottom">
 
-	<h1>Goodiebag of useful <span class="span-yellow">links</span></h1>
+	<h1>Goodiebag of useful <span class="span-yellow span-emphasize">links</span></h1>
 	<p>MovieLovers believe in rich communities and informative websites and on this page we have gathered some useful and links that we think you will enjoy</p>
 	<br>
 	<div class="link-list">
