@@ -21,10 +21,10 @@
 			<h1>Only <span class="span-yellow span-emphasize">€8</span></h1>
 		</div>
 		<div class="wow flipInX" data-wow-delay="1.5s">
-			<h1><span class="span-yellow span-emphasize">Thousands</span> of movies</h1>
+			<h1><span class="span-yellow span-emphasize">Thousands</span> of Movies</h1>
 		</div>
 		<div class="wow flipInX extra-padding-small-bottom" data-wow-delay="2.5s">
-			<h1>Binge-watch <span class="span-yellow span-emphasize">hundred</span> of tv series</h1>
+			<h1>Binge-watch <span class="span-yellow span-emphasize">hundreds</span> of Tv Series</h1>
 		</div>
 
 		<!-- Div for wow.js effect -->
