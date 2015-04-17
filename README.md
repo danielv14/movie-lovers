@@ -25,9 +25,11 @@ I css/style.css finns det två stycken hjälp-klasser som antingen ger extra mar
 </div>
 ```
 Och för extra margin i toppen:
+```
 <div class="wrapper extra-margin-top">
 	<h1>This div has extra margin at the top</h1>
 </div>
+```
 
 ##Hjälpande span-klass
 'span-yellow' kan användas när någon text ska ändra färg till hemsidans signaturfärg #F8AD09. Detta används flitigt här och där i hemsidan och ska text i en paragraf göras gul, gör såhär:
