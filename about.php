@@ -1,6 +1,6 @@
 <!-- Include the header -->
 <?php include 'header.php';?>
-<img class ="page-img"src="img/about-us-crop.jpg" alt="background">
+<img class ="page-img" src="img/about-us-crop.jpg" alt="background">
 
 
 <div class="wrapper extra-margin-bottom">

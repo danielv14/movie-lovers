@@ -1,7 +1,7 @@
 <!-- Include the header -->
 <?php include 'header.php';?>
 
-<img class ="page-img"src="img/collection.jpg" alt="background">
+<img class ="page-img" src="img/collection.jpg" alt="background">
 
 
 <!-- Content goes here -->

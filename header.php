@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/style.css">
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 </head>
 <body>

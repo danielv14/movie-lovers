@@ -18,8 +18,6 @@
 	  </ol> 
 	</div>
 
-
-	
 </div> <!-- End of wrapper -->
 
 
