@@ -1,1 +1,16 @@
-#Statisk hemsida - del av webb 2.0 kurs
+#MovieLovers
+Detta är ett repo för en hemsidan som är del av en kurs, [Webbinformatik 2.0, 7ph](https://www.miun.se/utbildning/kurser/data-och-it/informatik/informatik-gr-a-webbinformatik-2.0-75-hp/om-kursen).
+Uppgift 3 handlar om att skapa en enklare statisk hemsida där själva innehållet är oväsentligt, så länge hemsidan uppfyller vissa kriterier. Bland annat är navbar ett krav samt  att det ska finnas några externa länkar på hemsidan.
+
+##Animate.css, normalize.css, wow.js och jquery
+Normalize används för att nollställa all margin och padding. De andra två externa filer används för att skapa den effekt som finns i sign-up.php och möjliggör den effekt som finns på sidans andra wrapper. Då wow.js använder sig av jquery finns även jquery i js/jquery-2.1.3.min.js 
+
+##Icke använda .js filer
+js/main.js är en (än så länge) tom fil där eventuell egen javascript/jquery kod kan skrivas för använding på MovieLovers.
+js/typed.js är en externt hämtad fil som inte heller används i nuläget.
+
+##Hjälpklasser till div's
+I css/style.css finns det två stycken hjälp-klasser som antingen ger extra margin ovanför eller nedanför en div. Dessa heter 'extra-margin-bottom' och 'extra-margin-top'. De ger en margin på 75px och 100px respektive.
+
+##Bilder
+img/ innehåller croppade bilder som används på de olika php-sidorna. En logotyp finns även i denna katalog samt bakgrunden som används på en av div'arna i sign-up.php.
