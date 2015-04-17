@@ -26,6 +26,7 @@ a:hover {
 
 p {
 	margin-bottom: 15px;
+	font-size: 1.1em;
 }
 
 /*Style for navbar*/
@@ -223,7 +224,7 @@ ol li {
 }
  
 li p {
-  font: 16px/1.5 'PT Sans', sans-serif;
+  font: 18px/1.5 'PT Sans', sans-serif;
   padding-left: 60px;
   color: black;
 }
