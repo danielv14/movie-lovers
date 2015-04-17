@@ -108,6 +108,10 @@ div.extra-margin-bottom {
 	margin-bottom: 75px;
 }
 
+/*Helper class for extra margin*/
+div.extra-padding-small-bottom {
+	padding-bottom: 10px;
+}
 /* Style for  full-width page images */
 img.page-img {
 	width: 100%;

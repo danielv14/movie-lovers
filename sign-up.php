@@ -23,10 +23,9 @@
 		<div class="wow flipInX" data-wow-delay="1.5s">
 			<h1><span class="span-yellow span-emphasize">Thousands</span> of movies</h1>
 		</div>
-		<div class="wow flipInX" data-wow-delay="2.5s">
+		<div class="wow flipInX extra-padding-small-bottom" data-wow-delay="2.5s">
 			<h1>Binge-watch <span class="span-yellow span-emphasize">hundred</span> of tv series</h1>
 		</div>
-		<br>
 
 		<!-- Div for wow.js effect -->
 	<div class="wow fadeIn" data-wow-delay="3.5s" data-wow-duration="1s">

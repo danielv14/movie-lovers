@@ -18,16 +18,22 @@ Allt innehåll ska omslutas av en div med klassen 'wrapper'. Då blir innehålle
 ```
 
 ##Hjälpklasser till div's
-I css/style.css finns det två stycken hjälp-klasser som antingen ger extra margin ovanför eller nedanför en div. Dessa heter 'extra-margin-bottom' och 'extra-margin-top'. De ger en margin på 75px och 100px respektive. Klasserna används såhär:
+I css/style.css finns det tre stycken hjälp-klasser som antingen ger extra utrymme ovanför eller nedanför en div. Dessa heter 'extra-margin-bottom', 'extra-margin-top' och 'extra-padding-small-bottom'. De ger en margin på 75px och 100px respektive. Klasserna används såhär:
 ```
 <div class="wrapper extra-margin-bottom">
 	<h1>This div has extra margin at the bottom</h1>
 </div>
 ```
-Och för extra margin i toppen:
+För extra margin i toppen:
 ```
 <div class="wrapper extra-margin-top">
 	<h1>This div has extra margin at the top</h1>
+</div>
+```
+För extra padding i botten:
+```
+<div class="wrapper extra-padding-small-bottom">
+	<h1>This div has extra padding in the bottom</h1>
 </div>
 ```
 
