@@ -8,7 +8,6 @@
 
 	<h1>Goodiebag of useful <span class="span-yellow span-emphasize">links</span></h1>
 	<p>MovieLovers believe in rich communities and informative websites and on this page we have gathered some useful and links that we think you will enjoy</p>
-	<br>
 	<div class="link-list">
 	  <ol>
 	    <li><span class="list-span">1.</span><p><a href="http://imdb.com" title="IMDb">IMDb</a> is the worlds largest moviedatabase where you can lookup information about almost anything related to movies and tv series. You can search for movies, actors, directors and many other things. This should be your number one stop when you want information about movies and such.</p></li>

@@ -24,6 +24,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+p {
+	margin-bottom: 15px;
+}
+
 /*Style for navbar*/
 #navigation {
 	position: fixed;
