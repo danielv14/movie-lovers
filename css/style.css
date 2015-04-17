@@ -114,7 +114,7 @@ div.extra-padding-small-bottom {
 	padding-bottom: 10px;
 }
 /* Style for  full-width page images */
-img.page-img {
+.page-img {
 	width: 100%;
 	height: 500px;
 	background-size: cover;
