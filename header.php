@@ -22,6 +22,4 @@
 	<a class="nav-link" href="useful-links.php">Useful links</a>
 	<a class="nav-link" href="about.php">About</a>
 
-</div>	 
-
-
+</div>
