@@ -91,7 +91,7 @@ div.extra-margin-top {
 
 /*Helper class for extra margin*/
 div.extra-margin-bottom {
-  margin-bottom: 75px; }
+  margin-bottom: 80px; }
 
 /*Helper class for extra margin*/
 div.extra-padding-small-bottom {
@@ -113,9 +113,10 @@ span.span-emphasize {
   font-size: 1.35em;
   font-style: italic; }
 
-/********************
-*Style for button
-*********************/
+/*
+*Style for button on sign-up.php
+*
+*/
 .button {
   text-decoration: none;
   text-align: center;
@@ -160,10 +161,10 @@ span.span-emphasize {
   -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
   box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; }
 
-/************
-* Style for link-list
+/*
+* Style for link-list on useful-links.php
 *
-*************/
+*/
 .link-list {
   width: 900px;
   margin: 10px; }
