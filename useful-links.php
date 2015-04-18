@@ -20,10 +20,5 @@
 
 </div> <!-- End of wrapper -->
 
-
-
-
-
-
 <!-- Include the footer -->
 <?php include 'footer.php';?>
