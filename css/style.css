@@ -16,7 +16,8 @@ a {
   text-decoration: none; }
 
 a:hover {
-  text-decoration: underline; }
+  text-decoration: underline;
+  color: #f9be3b; }
 
 p {
   margin-bottom: 15px;
