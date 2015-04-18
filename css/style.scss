@@ -15,7 +15,7 @@ html {
 body {
 	background-color: $background-color;
   @include font-family;
-	line-height: 1.5em;
+	line-height: $line-height;
 }
 
 a {
@@ -28,7 +28,7 @@ a:hover {
 }
 
 p {
-	margin-bottom: 15px;
+	margin-bottom: $extra-margin-bottom-small;
 	font-size: 1.1em;
 }
 
@@ -126,6 +126,7 @@ div.extra-padding-small-bottom {
 span.span-yellow {
 	color: $primary-color;
 }
+
 span.span-emphasize {
 	font-size: 1.35em;
 	font-style: italic;
