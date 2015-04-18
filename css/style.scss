@@ -3,29 +3,9 @@
 *
 */
 
-// Color variables
-$primary-color: #F8AD09;
-$background-color: #eee;
-
-// Font mixin
-@mixin font-family {
-  font-family: 'PT Sans', sans-serif;
-}
-
-// Helper variables for extra padding and margins
-$extra-margin-top: 100px;
-$extra-margin-bottom: 75px;
-$extra-padding-bottom: 10px;
-
-// Variable for div length
-$div-length: 960px;
-
-// Shadow mixin for navbar
-@mixin box-shadow ($top, $right, $bottom, $left) {
-  -webkit-box-shadow: $top $right $bottom $left #000000;
-	-moz-box-shadow: $top $right $bottom $left #000000;
-	box-shadow: $top $right $bottom $left #000000;
-}
+// Import other scss
+@import 'variables.scss';
+@import 'mixins.scss';
 
 html {
 
