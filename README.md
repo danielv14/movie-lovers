@@ -5,6 +5,9 @@ Uppgift 3 handlar om att skapa en enklare statisk hemsida där själva innehåll
 ##Användande av Sass
 Från början användes ren css styling men i hemsidans slutfas togs ett beslut om att prova på Sass och hemsidan använder nu sass i form av scss. Läs mer om vad det innebär [här](http://sass-lang.com)
 
+##Responsivitet
+Kort efter att sass implementerades gjordes en separat fil, css/responsive.scss som gör hemsidan responsiv
+
 ##Animate.css, normalize.css, wow.js och jquery
 Normalize används för att nollställa all margin och padding. De andra två externa filer används för att skapa den effekt som finns i sign-up.php och möjliggör den effekt som finns på sidans andra wrapper. Då wow.js använder sig av jquery finns även jquery i js/jquery-2.1.3.min.js
 
