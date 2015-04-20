@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8" name="viewport" content="initial-scale=1, maximum-scale=1">
 	<title>MovieLovers</title>
 	<link rel="icon" href="favicon.ico">
 	<link rel="stylesheet" href="css/normalize.css">
