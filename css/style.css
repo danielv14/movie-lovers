@@ -92,7 +92,7 @@ div.extra-margin-top {
 
 /*Helper class for extra margin*/
 div.extra-margin-bottom {
-  margin-bottom: 80px; }
+  margin-bottom: 90px; }
 
 /*Helper class for extra margin*/
 div.extra-padding-small-bottom {
@@ -187,3 +187,40 @@ li p {
 
 span.list-span {
   position: absolute; }
+
+@media screen and (max-width: 700px) {
+  h1 {
+    font-size: 1.5em;
+    line-height: 0.9; }
+
+  span.span-emphasize {
+    font-size: 0.9em; }
+
+  span.span-yellow {
+    font-size: 1.2em; }
+
+  div.wrapper {
+    width: 95%;
+    padding: 0px; }
+
+  .link-list {
+    width: 90%; }
+
+  .page-img {
+    height: 200px;
+    width: 100%;
+    margin-top: 50px; }
+
+  div.price-content {
+    width: 100%;
+    padding: 0px;
+    padding-top: 12px; }
+
+  #navigation a {
+    font-size: 12px;
+    padding-left: 3px;
+    padding-right: 3px; }
+
+  .button {
+    padding: 12px 18px;
+    font: 6px; } }
