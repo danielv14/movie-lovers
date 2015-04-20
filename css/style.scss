@@ -7,6 +7,7 @@
 @import 'variables';
 @import 'mixins';
 
+
 html {
 
 }
@@ -214,3 +215,5 @@ li p {
 span.list-span {
   position: absolute;
 }
+// Import responsiveness
+@import 'responsive';
