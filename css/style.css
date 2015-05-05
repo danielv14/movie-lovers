@@ -92,7 +92,7 @@ div.extra-margin-top {
 
 /*Helper class for extra margin*/
 div.extra-margin-bottom {
-  margin-bottom: 80px; }
+  margin-bottom: 50px; }
 
 /*Helper class for extra margin*/
 div.extra-padding-small-bottom {
@@ -119,49 +119,35 @@ span.span-emphasize {
 *Style for button on sign-up.php
 *
 */
-.button {
-  text-decoration: none;
-  text-align: center;
-  padding: 16px 21px;
-  border: none;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  font: 12px;
+.btn {
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 22px;
   font-weight: bold;
-  color: #1f1f1f;
-  background-color: #f8ac09;
-  background-image: -moz-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  background-image: -webkit-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  background-image: -o-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  background-image: -ms-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2c35e', endColorstr='#f2c35e',GradientType=0 );
-  background-image: linear-gradient(top, #f8ac09 0%, #f2c35e 100%); }
-
-.button:hover {
   text-decoration: none;
-  background-color: #f0cc7d;
-  background-image: -moz-linear-gradient(top, #f0cc7d 0%, #f2c35e 100%);
-  background-image: -webkit-linear-gradient(top, #f0cc7d 0%, #f2c35e 100%);
-  background-image: -o-linear-gradient(top, #f0cc7d 0%, #f2c35e 100%);
-  background-image: -ms-linear-gradient(top, #f0cc7d 0%, #f2c35e 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2c35e', endColorstr='#f2c35e',GradientType=0 );
-  background-image: linear-gradient(top, #f0cc7d 0%, #f2c35e 100%);
-  -webkit-box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
-  -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
-  box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; }
+  color: #fff;
+  position: relative;
+  display: inline-block; }
 
-.button:active {
-  background-color: #f8ac09;
-  background-image: -moz-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  background-image: -webkit-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  background-image: -o-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  background-image: -ms-linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2c35e', endColorstr='#f2c35e',GradientType=0 );
-  background-image: linear-gradient(top, #f8ac09 0%, #f2c35e 100%);
-  -webkit-box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
-  -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
-  box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; }
+.btn:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  background-color: #f9be3b; }
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 5px 0px 0px;
+  text-decoration: none; }
+
+.btn link {
+  text-decoration: none;
+  color: black; }
+
+.yellow {
+  background-color: #F8AD09;
+  box-shadow: 0px 5px 0px 0px #976904; }
 
 /*
 * Style for link-list on useful-links.php

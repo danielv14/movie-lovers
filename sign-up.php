@@ -29,7 +29,8 @@
 
 		<!-- Div for wow.js effect -->
 	<div class="wow fadeIn" data-wow-delay="3.5s" data-wow-duration="1s">
-  		<a href="#" class="button">Sign up</a>
+  		<a class="btn yellow">Sign Up</a>
+
 	</div>
 	</div>
 	
